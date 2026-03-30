@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nutan Sonale <img align="right" width="102" height="102" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/09329933-830e-4c03-bd35-7832b5e58913" /></h1>
 
-<h3 align="center">IoT enthusiast with experience in Devops, like to designs systems that can identify errors</h3>
+<h3 align="center">IoT enthusiast with experience in Devops, like to design systems that can identify errors</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nutansonaletv&label=Profile%20views&color=0e75b6&style=flat" alt="nutansonaletv" /> </p>
 
