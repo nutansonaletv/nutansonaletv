@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Jenkins, Github action/workflows, Selective build in maven modules, AWS migration and management**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nutansonaletv@gmail.com</h3>
 <p align="left">
 </p>
 
